@@ -17,4 +17,5 @@ public class DeathHere : MonoBehaviour
             LevelController.current.onRabitDeath(rabit);
         }
     }
+
 }
